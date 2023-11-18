@@ -1,4 +1,4 @@
-package com.example.dovshan
+package com.example.shopsmart
 
 import org.junit.Test
 
