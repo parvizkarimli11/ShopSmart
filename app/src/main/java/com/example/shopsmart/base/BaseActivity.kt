@@ -26,4 +26,5 @@ abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
 
     open fun onViewBindingCreated(savedInstanceState: Bundle?) {}
 
+
 }
